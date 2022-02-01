@@ -1,9 +1,9 @@
 .fondo{
-    background-image: url(/img/ImagenFondo.jpg);
+    background-image: url(../img/ImagenFondo.jpg);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-size: cover;
     background-position: center;
-    background-position-y: 100%;
+    padding: 0;
 }
 /*ESTILOS GENERALES*/
 /*ESTILOS NAV*/
